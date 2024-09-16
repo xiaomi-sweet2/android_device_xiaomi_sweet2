@@ -24,3 +24,7 @@ Camera  | 108 MP wide camera, 8 MP ultra-wide camera, 2 MP macro camera, 2 MP de
 ## Device picture
 
 ![Xiaomi Redmi Note 12 Pro](https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1681210722.14245135.png)
+
+## Tree source
+
+<https://github.com/Lafactorial/android_device_xiaomi_sweet2>
