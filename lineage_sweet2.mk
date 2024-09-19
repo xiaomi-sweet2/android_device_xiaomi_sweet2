@@ -39,3 +39,13 @@ TARGET_ENABLE_BLUR := true
 TARGET_SUPPORTS_CALL_RECORDING := true
 TARGET_SUPPORTS_GOOGLE_RECORDER := true
 TARGET_SUPPORTS_NEXT_GEN_ASSISTANT := true
+
+# AlphaDroid
+ALPHA_MAINTAINER := xiaomi-sweet2
+ALPHA_BUILD_TYPE := Unofficial
+
+# TARGET_BUILD_PACKAGE options:
+# 1 - vanilla (default)
+# 2 - microg
+# 3 - gapps
+TARGET_BUILD_PACKAGE := 1
