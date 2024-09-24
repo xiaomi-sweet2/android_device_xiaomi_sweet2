@@ -96,3 +96,7 @@ PRODUCT_PACKAGES += \
 
 # Call the proprietary setup
 $(call inherit-product, vendor/xiaomi/sweet2/sweet2-vendor.mk)
+
+
+# Sign ROM if signing keys present
+-include vendor/lineage-priv/keys/keys.mk
