@@ -18,7 +18,7 @@
 -->
 <device name="Android">
     <!-- All values are in mA except as noted -->
-    <item name="battery.capacity">5020</item>
+    <item name="battery.capacity">5000</item>
 
     <!-- Number of cores each CPU cluster contains -->
     <array name="cpu.clusters.cores">
